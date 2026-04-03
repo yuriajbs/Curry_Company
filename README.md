@@ -60,32 +60,32 @@ Cada visão é representada pelo seguinte conjunto de métricas.
 
 1.  Visão do crescimento da empresa:
 
-- Pedidos por dia.
-- Porcentagem de pedidos por condições de trânsito.
-- Quantidade de pedidos por tipo e por cidade.
-- Pedidos por semana.
-- Quantidade de pedidos por tipo de entrega.
-- Quantidade de pedidos por condições de trânsito e tipo de cidade.
+  - Pedidos por dia.
+  - Porcentagem de pedidos por condições de trânsito.
+  - Quantidade de pedidos por tipo e por cidade.
+  - Pedidos por semana.
+  - Quantidade de pedidos por tipo de entrega.
+  - Quantidade de pedidos por condições de trânsito e tipo de cidade.
 
 2.  Visão do crescimento dos restaurantes:
 
-- Quantidade de pedidos únicos.
-- Distância média percorrida.
-- Tempo médio de entrega durante festival e dias normais.
-- Desvio padrão do tempo de entrega durante festivais e dias normais.
-- Tempo de entrega médio por cidade.
-- Distribuição do tempo médio de entrega por cidade.
-- Tempo médio de entrega por tipo de pedido.
+  - Quantidade de pedidos únicos.
+  - Distância média percorrida.
+  - Tempo médio de entrega durante festival e dias normais.
+  - Desvio padrão do tempo de entrega durante festivais e dias normais.
+  - Tempo de entrega médio por cidade.
+  - Distribuição do tempo médio de entrega por cidade.
+  - Tempo médio de entrega por tipo de pedido.
 
 3.  Visão do crescimento dos entregadores:
 
-- Idade do entregador mais velho e do mais novo.
-- Avaliação do melhor e do pior veículo.
-- Avaliação média por entregador.
-- Avaliação média por condições de trânsito.
-- Avaliação média por condições climáticas.
-- Tempo médido do entregador mais rápido.
-- Tempo médio do entregador mais rápido por cidade.
+  - Idade do entregador mais velho e do mais novo.
+  - Avaliação do melhor e do pior veículo.
+  - Avaliação média por entregador.
+  - Avaliação média por condições de trânsito.
+  - Avaliação média por condições climáticas.
+  - Tempo médido do entregador mais rápido.
+  - Tempo médio do entregador mais rápido por cidade.
 
 ## 4. Top 3 Insights de dados
 
