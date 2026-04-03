@@ -45,61 +45,53 @@ o gestor.
 
 ## 2. Premissas assumidas para a análise
 
-1.  A análise foi realizada com dados entre 11/02/2022 e
-06/04/2022.
+1.  A análise foi realizada com dados entre 11/02/2022 e 06/04/2022.
 2.  Marketplace foi o modelo de negócio assumido.
 3.  Os 3 principais visões do negócio foram: Visão transação de pedidos, visão restaurante e visão entregadores.
 
 ## 3. Estratégia da solução
 
 O painel estratégico foi desenvolvido utilizando as métricas que refletem as 3 principais visões do modelo de negócio da empresa:
-1.  Visão do crescimento da empresa;
-2.  Visão do crescimento dos restaurantes;
-3.  Visão do crescimento dos entregadores;
+1.  Visão do crescimento da empresa.
+2.  Visão do crescimento dos restaurantes.
+3.  Visão do crescimento dos entregadores.
 
 Cada visão é representada pelo seguinte conjunto de métricas.
 
 1.  Visão do crescimento da empresa:
 
-   a.  Pedidos por dia;
-   
-   b.  Porcentagem de pedidos por condições de trânsito;
-  
-   c.  Quantidade de pedidos por tipo e por cidade;
-   
-   d.  Pedidos por semana;
-  
-   e.  Quantidade de pedidos por tipo de entrega;
-  
-   f.  Quantidade de pedidos por condições de trânsito e tipo de cidade;
+- Pedidos por dia.
+- Porcentagem de pedidos por condições de trânsito.
+- Quantidade de pedidos por tipo e por cidade.
+- Pedidos por semana.
+- Quantidade de pedidos por tipo de entrega.
+- Quantidade de pedidos por condições de trânsito e tipo de cidade.
 
 2.  Visão do crescimento dos restaurantes:
 
-- a.  Quantidade de pedidos únicos;
-- b.  Distância média percorrida.
-- c.  Tempo médio de entrega durante festival e dias normais.
-- d.  Desvio padrão do tempo de entrega durante festivais e dias normais.
-- e.  Tempo de entrega médio por cidade.
-- f.  Distribuição do tempo médio de entrega por cidade.
-- g.  Tempo médio de entrega por tipo de pedido.
+- Quantidade de pedidos únicos.
+- Distância média percorrida.
+- Tempo médio de entrega durante festival e dias normais.
+- Desvio padrão do tempo de entrega durante festivais e dias normais.
+- Tempo de entrega médio por cidade.
+- Distribuição do tempo médio de entrega por cidade.
+- Tempo médio de entrega por tipo de pedido.
 
 3.  Visão do crescimento dos entregadores:
 
-- a.  Idade do entregador mais velho e do mais novo.
-- b.  Avaliação do melhor e do pior veículo.
-- c.  Avaliação média por entregador.
-- d.  Avaliação média por condições de trânsito.
-- e.  Avaliação média por condições climáticas.
-- f.  Tempo médido do entregador mais rápido.
-- g.  Tempo médio do entregador mais rápido por cidade.
+- Idade do entregador mais velho e do mais novo.
+- Avaliação do melhor e do pior veículo.
+- Avaliação média por entregador.
+- Avaliação média por condições de trânsito.
+- Avaliação média por condições climáticas.
+- Tempo médido do entregador mais rápido.
+- Tempo médio do entregador mais rápido por cidade.
 
 ## 4. Top 3 Insights de dados
 
 1.  A sazonalidade da quantidade de pedidos é diária. Há uma variação de aproximadamente 10% do número de pedidos em dias sequenciais.
-2.  As cidades do tipo Semi-Urban não possuem condições
-baixas de trânsito.
-3.  As maiores variações no tempo de entrega, acontecem
-durante o clima ensolado.
+2.  As cidades do tipo Semi-Urban não possuem condições baixas de trânsito.
+3.  As maiores variações no tempo de entrega, acontecem durante o clima ensolarado.
 
 ## 5. O produto final do projeto
 Painel online, hospedado em um Cloud e disponível para acesso em qualquer dispositivo conectado à internet. O painel pode ser acessado através desse link: https://currycompany-01.streamlit.app/
